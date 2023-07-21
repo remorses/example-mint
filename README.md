@@ -1,4 +1,4 @@
-# Mintlify Starter Kit
+# Markdown starter kit
 
 hi
 
