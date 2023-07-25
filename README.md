@@ -1,12 +1,12 @@
-# Mintlify Starter Kit
+# Markdown starter kit
 
-hi
-
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Click on `Use this template` to copy **the** Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
 - Navigation
 - Customizations
+- sdd
+- dfs
 - API Reference pages
 - Use of popular components
 
@@ -17,6 +17,9 @@ Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview th
 ```
 npm i -g mintlify
 ```
+
+<Mdx>
+</Mdx>
 
 Run the following command at the root of your documentation (where mint.json is)
 
