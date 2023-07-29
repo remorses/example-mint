@@ -2,13 +2,13 @@
 
 Click on `Use this template` to copy **the** Mintlify starter kit. The starter kit contains examples including
 
-- [Guide ](ss)pages
+- Guide pages
 - Navigation
-- Customizations
+  - Customizations
 - sdd
 - dfs
 - API Reference pages
-- Use of popular components
+- Use of popular components xxx
 
 ### 👩‍💻 Development
 
