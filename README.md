@@ -7,7 +7,7 @@ Click on `Use this template` to copy **the** Mintlify starter kit. The starter k
   - Customizations
 - sdd
 - dfs
-- API Reference pages
+  - API Reference pages
 - Use of popular components xxx
 
 ### 👩‍💻 Development
