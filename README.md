@@ -43,4 +43,4 @@ some stuff
 
 from github xxx
 
-/call
+/callout
