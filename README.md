@@ -18,8 +18,6 @@ Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview th
 const x = 0
 ```
 
-<Mdx>
-</Mdx>
 
 Run the following command at the root of your documentation (where mint.json is)
 
