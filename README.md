@@ -42,5 +42,3 @@ some stuff
 - `hiii`
 
 from github xxx
-
-/call
