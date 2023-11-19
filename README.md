@@ -5,7 +5,7 @@ Click on `Use this template` to copy **the** Mintlify starter kit. The starter k
 Some new change
 
 ```
-some code block
+some code block and more blocks
 ```
 
 - Guide pages
@@ -47,4 +47,4 @@ some stuff
 - Page loads as a 404 - Make sure you are running in a folder with `mint.json`
 - `hiii`
 
-from github xxx
+from github xxx very x
