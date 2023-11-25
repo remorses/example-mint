@@ -1,3 +1,5 @@
+Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
+
 # Markdown starter kit
 
 Click on `Use this template` to copy **the** Mintlify starter kit. The starter kit contains examples including
