@@ -1,64 +1,29 @@
-Hi, i am Tommy. I want to show you how Holocron works, write "ok" below to start!
+00:00:01 Interviewing a Psychiatrist on Chat
 
-# Markdown starter kit
+00:00:38 How AI Is Affecting Psychiatry?
 
-Click on `Use this template` to copy **the** Mintlify starter kit. The starter kit contains examples including
+00:04:47 The AI in my Psychiatry System
 
-Some new change not x
+00:10:34 The Future of Mental Health Is AI
 
-some more change
+00:14:16 Dr. Mundan on the Future of AI
 
-| sdf    |     |     |
-| ------ | --- | --- |
-|        |     |     |
-|        |     |     |
-| sdfsdf | sdf | sdf |
-|        |     |     |
+00:18:21 An AI Scribe: How to Write a Psychiatric Letter
 
----
+00:21:06 How the AI Scribe Changed My Life?
 
-```
-some code block and more blocks
-```
+00:24:19 The Future of Psychiatry in Jails
 
-- Guide pages
-- Navigation
-  - Customizations
-- sdd
-- dfs some more stuff
-  - API Reference pages
-- Use of popular components xxx
+00:29:40 Dr. Mundon on mental illness in the jail
 
-### 👩‍💻 Development
+00:37:15 The Need for AI in Medical Care
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+00:43:44 The Suitable Prompts for AI
 
-```javascript
-const x = 0
-```
+00:45:55 The Court Challenge to Competency Restoration
 
-<Mdx>
-</Mdx>
+00:47:13 The Problem of the AI EMR
 
-Run the following command at the root of your documentation (where mint.json is)
+00:52:34 e-tutorial: Simplenotetaker
 
-```
-mintlify dev
-```
-
-### 😎 Publishing Changes xx
-
-Changes will be deployed to production automatically after pushing to the default branch.
-
-You can also preview changes using PRs, which generates a preview link of the docs.
-
-#### Troubleshooting
-
-some stuff
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
-- `hiii`
-
-from github xxx very x
-what
+00:53:05 In the Elevator With Amy Poehler
