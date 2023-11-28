@@ -8,3 +8,7 @@
 | 00:18:21  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=18m21s>                                                       | An AI Scribe: How to Write a Psychiatric Letter |
 | 00:21:06  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=21m6s>                                                        | How the AI Scribe Changed My Life?              |
 | 00:24:19  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=24m19s>                                                       | The Future of Psychiatry in Jails               |
+| 00:29:40  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=29m40s>                                                       | Dr. Mundon on mental illness in the jail        |
+| 00:37:15  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=37m15s>                                                       | The Need for AI in Medical Care                 |
+| 00:43:44  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=43m44s>                                                       | The Suitable Prompts for AI                     |
+| 00:45:55  | <https://www.youtube.com/watch?v=Yq9q9vqWnF8&t=45m55s>                                                       | The Court Challenge to Competency Restoration   |
